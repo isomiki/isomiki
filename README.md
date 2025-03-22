@@ -2,24 +2,22 @@
 
 [marinbelec.com](https://marinbelec.com)
 
-I usually code in JS, Dart, English, HTML
+I used to work in a cheese factory
 
-I used to make cheese for a living
+I like finance, math and biology
 
-Co-founder https://vybe.social
+Ex cofounder https://vybe.social
 
-![Mood badge](https://img.shields.io/badge/Chill_status-100%25-teal)
+Currently hacking things together until I hit a motherload, dm to join
 
-[![Music badge](https://img.shields.io/badge/Listening_to-Pete_Namlook:_Silence_V-purple)](https://www.youtube.com/watch?v=7AzcVC6aIvI)
+![Mood badge](https://img.shields.io/badge/Live_chill_level-100.00%25-darkgreen)
 
+Here's some nice music: https://www.youtube.com/watch?v=7AzcVC6aIvI
 
 ### Contact
 
-Software development: contact@mrnb.net
+Fastest: [SimpleX](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2FBMMlAywLcOkWtpqF5pmFuPCGhGlmwGh-%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAVaXbW4OUWyS3htmFrUIJCjAyWDD9X8QtEaI0vYm4eG0%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion) (anonymous chat)
 
-Business inquiries: contact@marinbelec.com
+Email: contact@marinbelec.com
 
-### Fun fact
-
-Your old passwords are probably public because of hacks from years ago - check [here](https://haveibeenpwned.com/) (not my site)
-
+npub1m3c7arrpaj9e0zypyprkzg5eqvenj3qpk7ern32qtydfqmw8vcks9szk59
