@@ -14,7 +14,7 @@ Here's some nice music: https://www.youtube.com/watch?v=7AzcVC6aIvI
 
 ### Contact
 
-[SimpleX](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2FBMMlAywLcOkWtpqF5pmFuPCGhGlmwGh-%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAVaXbW4OUWyS3htmFrUIJCjAyWDD9X8QtEaI0vYm4eG0%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion) (easiest, anonymous chat)
+[SimpleX](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2F31FfK_pfUeFhgJ0c-KU5LRFf1YEMKVNz%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAuM6kuLT3D7USJYGDu03wKYRKapXEKgqB8Uw_8rzoiU4%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion) (easiest, anonymous chat)
 
 Email: contact@marinbelec.com
 
