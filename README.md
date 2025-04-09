@@ -8,7 +8,7 @@ Ex cofounder https://vybe.social
 
 Currently hacking things together till I hit a motherload
 
-![Mood badge](https://img.shields.io/badge/Live_chill_level-100.00%25-darkgreen)
+![Mood badge](https://img.shields.io/badge/Live_chill_level-100.00%25-white)
 
 Here's some nice music: https://www.youtube.com/watch?v=7AzcVC6aIvI
 
