@@ -1,12 +1,12 @@
 ### # About
 
-Web home: [bel.ec](https://bel.ec)
+[bel.ec](https://bel.ec)
 
-Full time: coding trading algos
+- Full time: coding trading algos
 
-Part time: working on [a reading app](https://readingapp.mrnb.net) and making music
+- Part time: working on [a reading app](https://readingapp.mrnb.net) and making music
 
-Previously cofounder of [a party app](https://vybe.social)
+- Previously cofounder of [a party app](https://vybe.social)
 
 ![Mood badge](https://img.shields.io/badge/Live_chill_level-100.00%25-white)
 
