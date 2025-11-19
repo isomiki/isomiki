@@ -3,7 +3,7 @@
 
 [bel.ec](https://bel.ec)
 
-Full time: coding trading algos
+Full time: making trading algos
 
 Part time: working on [a reading app](https://readingapp.mrnb.net) and making music
 
