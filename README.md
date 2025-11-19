@@ -7,7 +7,7 @@ Full time: making trading algos
 
 Part time: working on [a reading app](https://readingapp.mrnb.net) and making music
 
-Previously cofounder of [a party app](https://vybe.social)
+Previously cofounder of [a party app](https://vybe.social) (100k+ users)
 
 Teamwork experience: I used to work in a cheese factory
 
