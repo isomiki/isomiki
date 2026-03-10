@@ -5,11 +5,11 @@
 
 Full time: making trading algos
 
-Part time: working on a [reading app](https://readingapp.mrnb.net) and making music
+Part time: working on a [reading app](https://readingapp.mrnb.net) and [making music](https://soundcloud.com/marinaut)
 
 Previously cofounder of a [party app](https://vybe.social) (100k+ users)
 
-Teamwork experience: I used to work in a cheese factory
+"Real" work experience: I worked in a cheese factory
 
 Theme song: https://www.youtube.com/watch?v=7AzcVC6aIvI
 
