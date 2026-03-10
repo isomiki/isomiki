@@ -1,5 +1,5 @@
 ### # ABOUT
-![Mood badge](https://img.shields.io/badge/Live_chill_level-99.99%25-blue)
+![Mood badge](https://img.shields.io/badge/Live_chill_level-99.99%25-navy)
 
 [bel.ec](https://bel.ec)
 
